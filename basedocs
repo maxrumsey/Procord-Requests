@@ -1,0 +1,21 @@
+Commands:
+  !ping
+    Pings the bot
+Files:
+  users.json
+    Stores all of the roles to be assigned to each user.
+
+    Example: [Just look at users.json]
+Installing:
+  1. Install Node: https://nodejs.org/en/download/
+  2. Navigate to the directory index.js is in.
+  3. Run 'npm start'.
+  3.1 If that fails run 'node index.js --production'
+Contact:
+  Max Rumsey
+    Email: max@maxrumsey.xyz
+    Website: https://maxrumsey.xyz
+    Discord: dathsheep#0001
+  Procord
+    Twitter: https://twitter.com/_procord_?lang=en
+    Discord: https://discord.gg/auHudND

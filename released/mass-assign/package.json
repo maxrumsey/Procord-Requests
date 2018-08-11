@@ -1,0 +1,11 @@
+{
+  "name": "mass-assign-bot",
+  "version": "1.0.0",
+  "description": "A bot that mass-assigns roles to users and then moves those users to specific voice channels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ./",
+    "start": "node index.js"
+  },
+  "author": "Max Rumsey <max@maxrumsey.xyz> (maxrumsey.xyz)"
+}
