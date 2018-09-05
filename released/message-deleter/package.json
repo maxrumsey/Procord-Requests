@@ -1,0 +1,15 @@
+{
+  "name": "message-deleter",
+  "version": "1.0.0",
+  "description": "A bot that deletes messages once the user leaves the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js --production"
+  },
+  "author": "Max Rumsey <maxrumsey.xyz> (max@maxrumsey.xyz)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}

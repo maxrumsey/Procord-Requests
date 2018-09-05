@@ -1,0 +1,14 @@
+Installing:
+  1. Install Node: https://nodejs.org/en/download/
+  2. Navigate to the directory index.js is in.
+  2.1 In index.js replace 'yourtoken' with your bot token.
+  3. Run 'npm start'.
+  3.1 If that fails run 'node index.js --production'
+Contact:
+  Max Rumsey
+    Email: max@maxrumsey.xyz
+    Website: https://maxrumsey.xyz
+    Discord: dathsheep#0001
+  Procord
+    Twitter: https://twitter.com/_procord_?lang=en
+    Discord: https://discord.gg/auHudND
