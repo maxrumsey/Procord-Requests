@@ -1,0 +1,15 @@
+{
+  "name": "rolekick",
+  "version": "1.0.0",
+  "description": "When a user is rolled they are placed on a timer automatically kicking them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Rumsey <max@maxrumsey.xyz> (maxrumsey.xyz)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2"
+  }
+}

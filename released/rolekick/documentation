@@ -1,0 +1,18 @@
+Files:
+  queue.json
+    Stores the list of users to be kicked. Automatically loads this list into memory on bot load.
+Installing:
+  1. Install Node: https://nodejs.org/en/download/
+  2. Navigate to the directory index.js is in.
+  2.1 Open index.js and replace 'SUPER SECRET TOKEN' with your bot token.
+  2.2 Replace the ID of the role with your role to be banned.
+  3. Run 'npm start'.
+  3.1 If that fails run 'node index.js --production'
+Contact:
+  Max Rumsey
+    Email: max@maxrumsey.xyz
+    Website: https://maxrumsey.xyz
+    Discord: dathsheep#0001
+  Procord
+    Twitter: https://twitter.com/_procord_?lang=en
+    Discord: https://discord.gg/auHudND
