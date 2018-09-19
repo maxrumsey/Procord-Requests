@@ -1,0 +1,15 @@
+{
+  "token": "e",
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "database": "botto",
+    "password": "password"
+  },
+  "owner": "120306174225678336",
+  "staff": "476657666295332885",
+  "embed": {
+    "error": "RED",
+    "success": "#00ff00"
+  }
+}
